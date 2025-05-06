@@ -8,7 +8,7 @@ Welcome to the official Archcord community Code of Conduct! We are an inclusive 
 ## Table of Contents
 1. [Preface](#preface)
 2. [General Community Policies](#section-1---general-community-policies)
-   - [1.1 Discrimination](#11---discrimination)
+   - [1.1 Freedom Of Expression](#11---freedom-of-expression)
    - [1.2 Age Requirements](#12---age-requirements)
    - [1.3 Safe for Work Environment](#13---safe-for-work-environment)
    - [1.4 Anti-Elitism](#14---anti-elitism)
