@@ -188,7 +188,7 @@ All moderation logs are publicly viewable to maintain transparency. If you have 
 
 ### 3.3 - Administrator Unsuitability <a name="33---administrator-unsuitability"></a>
 
-If the community deems an administrator unfit, a public vote will be held. A 30-day transition period is provided during which the outgoing administrator remains until a successor is elected. For this process to proceed, at least **50% of the total community** must agree via poll.
+If the community deems an administrator unfit, a public vote will be held. If there would be less than 2 administrators, a 30-day transition period is provided during which the outgoing administrator remains until a successor is elected. If there is 2 or more, the person is to be removed effective immediately from the end of the poll if the poll is to pass with the community agreeing. For this process to proceed, at least **50% of the total community** must agree via poll.
 
 ---
 
