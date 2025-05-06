@@ -16,7 +16,6 @@ Welcome to the official Archcord community Code of Conduct! We are an inclusive 
    - [1.6 Personally Identifiable Information](#16---personally-identifiable-information)
    - [1.7 Discussion of Piracy](#17---discussion-of-piracy)
    - [1.8 Bot Commands](#18---bot-commands)
-   - [1.9 Harassment of Members](#19---harassment-of-members)
 3. [Voice Activity Conduct](#section-2---voice-activity-conduct)
    - [2.1 Music Bot Trolling](#21---music-bot-trolling)
    - [2.2 Sound Spam](#22---sound-spam)
@@ -39,9 +38,13 @@ By joining the Archcord community, you agree to follow this Code of Conduct as i
 
 These policies ensure a safe and respectful environment for all our members.
 
-### 1.1 - Discrimination <a name="11---discrimination"></a>
+### 1.1 - Freedom of Expression <a name="11---discrimination"></a>
 
-We do not tolerate any form of discrimination, including transphobia, homophobia, xenophobia, racism, and other similar behaviors. Our community is inclusive, and any discriminatory actions may result in moderation action.
+At Archcord, we believe you should be free to express yourself so to some limits you are allowed to express your opinions, however if political opinions are to be discussed, we advise that you use the Politics channel due to the potentially harmful connections.
+
+However, even with the freedom of expression rules, we do not tolerate any form of discrimination, including transphobia, homophobia, xenophobia, racism, and other similar behaviors. Our community is inclusive, and any discriminatory actions may result in moderation action.
+
+This also includes the harassment of members. While you are free to discuss, discourse and express yourself to members if a member requests you stop directly interacting with them, in DMs or in public channels, we request that you do.
 
 **Punishment Escalation:**
 - **First Offense (Mild):** You will receive a private ticket explaining the issue and guidance for improvement.
@@ -84,7 +87,13 @@ We aim to maintain a Safe For Work (SFW) space for everyone. This includes guide
 
 ### 1.4 - Anti-Elitism <a name="14---anti-elitism"></a>
 
-Elitist behavior is not acceptable. Dismissing newcomers with comments like "RTFM" or "Read the Fucking Manual" undermines our community spirit.
+Elitism is not tolerated in Archcord. We understand jokes, and if both parties on both recieving ends agree it's a joke then it can be excused however if it actively results in someone getting harmed, for example being refused support then the person expresisng such opinions may be punished. 
+
+Examples of harmful statements include:
+"This person uses "X", they shouldn't be helped."
+"This person uses "X", they aren't a real linux user."
+
+Special note on how it is targetted at specific people.
 
 **Punishment Escalation:**
 - **First Offense:** You will be ticketed, and your behavior will be addressed.
@@ -127,14 +136,6 @@ Please use designated channels for bot commands to ensure clear conversation flo
 
 **Punishment Escalation:**
 - Depending on severity, you may receive a ticket.
-
----
-
-### 1.9 - Harassment of Members
-Harrassing members in server or in DMs is not tolerated. We will not accept malicious interactions with a member and if you do so, we reserve the right to remove you from the server.
-
-**Punishment Escalation:**
-- Depending on severity, you may receive a ticket or be removed from the server.
 
 ---
 
@@ -181,7 +182,7 @@ Moderators have the authority to remove members for valid reasons. However, you 
 
 ### 3.2 - Moderation Transparency <a name="32---moderation-transparency"></a>
 
-All moderation logs are publicly viewable to maintain transparency. If you have concerns or need clarifications, please open a ticket rather than discussing in general channels.
+All moderation logs are publicly viewable to maintain transparency. If you have concerns or need clarifications, please open a ticket rather than discussing in general channels. Transparency however, does not equate to being able to view whatever information you desire to view at wish and mods may withhold information as required.
 
 ---
 
